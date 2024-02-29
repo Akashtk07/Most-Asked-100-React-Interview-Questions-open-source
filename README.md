@@ -1,8 +1,6 @@
-<img src="https://iconscout.com/free-lottie-animation/react-7761841" width="880" height="400" alt="Alt Text">
-
 ---
 title: "ReactJs Interview Question 2024 [50+ Questions]"
-description: "Find the top React job 50+ Questions interview questions for 2024 for beginners, frontend developers, junior developers as well as for experienced developers which might help you cracking your next interview."
+description: "Find the top React job 100+ Questions interview questions for 2024 for beginners, frontend developers, junior developers as well as for experienced developers which might help you cracking your next interview."
 githubPath: "https://github.com/Akashtk07/Most-Asked-100-React-Interview-Questions-open-source"
 ---
 
