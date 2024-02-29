@@ -1,7 +1,7 @@
 ---
 title: "ReactJs Interview Question 2024 [50+ Questions]"
 description: "Find the top React job 50+ Questions interview questions for 2024 for beginners, frontend developers, junior developers as well as for experienced developers which might help you cracking your next interview."
-githubPath: "https://github.com/Vasu7389/ReactJs-Interview-Question"
+githubPath: "https://github.com/Akashtk07/Most-Asked-100-React-Interview-Questions-open-source"
 ---
 
 <span style=" font-size: 1rem; border-bottom: 1px solid grey;"> Updated Jan 07, 2024 </span>
